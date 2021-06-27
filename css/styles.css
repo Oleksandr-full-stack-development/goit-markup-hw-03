@@ -21,7 +21,8 @@ html {
 
 .container {
   width: 1200px;
-  margin: 0px auto;
+  margin-right: auto;
+  margin-left: auto;
   padding-left: 15px;
   padding-right: 15px;
 }
@@ -468,7 +469,6 @@ address a {
   padding-top: 60px;
   padding-bottom: 60px;
   background: var(--hero-footer-background);
-  width: 1600px;
 }
 
 .logo-footer {
